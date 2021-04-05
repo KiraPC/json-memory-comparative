@@ -12,7 +12,7 @@ I wanted to compare this behavior with JS (running with Node), and also find for
 
 I tried to load the same file both in JS and in Python.
 
-The memory of the json file on filesystem is 18,6MB.
+The size of the json file on filesystem is 18,6MB.
 
 The nodejs application memory, after parsing the json, was 47.92MB.
 
